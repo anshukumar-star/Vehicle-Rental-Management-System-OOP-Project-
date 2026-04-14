@@ -1,0 +1,19 @@
+//output
+Enter Car Details:
+Vehicle Number: MP01C1234
+Brand: Honda City
+Rent per Day: 1000
+Enter number of days: 3
+
+Enter Bike Details:
+Vehicle Number: MP01B5678
+Brand: Hero Splendor
+Rent per Day: 300
+
+Vehicle Number: MP01C1234
+Brand: Honda City
+Car Rent for 3 days: 3500.0
+
+Vehicle Number: MP01B5678
+Brand: Hero Splendor
+Bike Rent for 3 days: 800.0
